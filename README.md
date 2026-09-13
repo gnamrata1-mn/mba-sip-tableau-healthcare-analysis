@@ -57,6 +57,14 @@ Dashboard screenshot will be added here.
 Key Findings
 
 The analysis was used to identify differences in performance across years, service categories, regions, segments, and disease areas.
+sed on the analysis of healthcare service performance from 2020–2023, the dashboard highlighted the following trends:
+Overall sales growth: Sales increased from 484,247 in 2020 to 733,215 in 2023, representing approximately 51.4% growth over the analysis period.
+Strongest sales year: 2023 recorded the highest sales of 733,215, approximately 20.4% higher than 2022.
+Profit growth: Profit increased from 49,544 in 2020 to 93,439 in 2023, representing approximately 88.6% growth.
+Improved profitability: The profit-to-sales ratio increased from approximately 10.2% in 2020 to 12.7% in 2023, indicating stronger overall profitability compared with the beginning of the period.
+Temporary sales decline: Sales decreased by approximately 2.8% in 2021 compared with 2020, followed by a strong recovery in 2022 and continued growth in 2023.
+These insights were identified through interactive Tableau visualizations and KPI-based analysis across different business dimensions.
+
 
 Selected findings and observations are documented separately in the "Insights" folder.
 
